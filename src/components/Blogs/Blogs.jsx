@@ -15,8 +15,9 @@ const Blogs = () => {
 
 
     return (
-        <div>
-            
+        // step 5 take width
+        <div className="md:w-2/3">
+            <h1 className="text-3xl font-bold">Blogs : {blogs.length}</h1>
         </div>
     );
 };
