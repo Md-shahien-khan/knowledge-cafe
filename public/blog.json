@@ -1,0 +1,35 @@
+[
+    {
+      "id": "001",
+      "cover_image": "https://i.ibb.co/QnMTryw/own.jpg",
+      "title": "The Secrets of the Ocean",
+      "author": "Fahien Khan",
+      "author_img": "https://i.ibb.co/2njtgBw/person1.jpg",
+      "posted_date": "October 10, 2024",
+      "time": "10:30 AM",
+      "hashtags": ["#OceanSecrets", "#MarineLife", "#NatureLovers"],
+      "reading_time": 5
+    },
+    {
+      "id": "002",
+      "cover_image": "https://i.ibb.co/dcPDbGM/company.jpg.jpg",
+      "title": "Exploring the Stars",
+      "author": "Dolan Roy",
+      "author_img": "https://i.ibb.co/jWv2ZhJ/person2.jpg",
+      "posted_date": "October 15, 2024",
+      "time": "2:15 PM",
+      "hashtags": ["#SpaceExploration", "#Astronomy", "#Stars"],
+      "reading_time": 7
+    },
+    {
+      "id": "003",
+      "cover_image": "https://i.ibb.co/vqgLMjD/business.jpg",
+      "title": "The Art of Cooking",
+      "author": "Kanij Fatema",
+      "author_img": "https://i.ibb.co/NnLSV73/person3.jpg",
+      "posted_date": "October 20, 2024",
+      "time": "6:00 PM",
+      "hashtags": ["#CookingArt", "#Foodie", "#RecipeIdeas"],
+      "reading_time": 10
+    }
+  ]
