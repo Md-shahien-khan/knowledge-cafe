@@ -1,6 +1,6 @@
 [
     {
-      "id": "001",
+      "id": "1",
       "cover_image": "https://i.ibb.co/QnMTryw/own.jpg",
       "title": "The Secrets of the Ocean",
       "author": "Fahien Khan",
@@ -11,7 +11,7 @@
       "reading_time": 5
     },
     {
-      "id": "002",
+      "id": "2",
       "cover_image": "https://i.ibb.co/dcPDbGM/company.jpg.jpg",
       "title": "Exploring the Stars",
       "author": "Dolan Roy",
@@ -22,7 +22,7 @@
       "reading_time": 7
     },
     {
-      "id": "003",
+      "id": "3",
       "cover_image": "https://i.ibb.co/vqgLMjD/business.jpg",
       "title": "The Art of Cooking",
       "author": "Kanij Fatema",
